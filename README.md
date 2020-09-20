@@ -1,2 +1,2 @@
-# igti-exercicio-1 >> README.md
+# igti-exercicio-1 
 
